@@ -1,0 +1,7 @@
+feature,test_type,churned_median,retained_median,p_value,statistically_significant
+pqp_velocity_ratio,Mann-Whitney U,0.541,1.135,1.1729e-247,Yes
+tier_pacing_ratio,Mann-Whitney U,0.476,0.994,1.0506e-192,Yes
+recency_days,Mann-Whitney U,41.0,18.0,3.7476e-70,Yes
+delay_rate_recent_6m,Mann-Whitney U,0.0,0.053,0.41044,No
+complaints_recent_6m,Mann-Whitney U,0.0,0.0,0.0015869,Yes
+has_cobrand_card,Chi-Square,0.468,0.273,4.2162e-46,Yes
